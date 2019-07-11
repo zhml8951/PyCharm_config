@@ -55,11 +55,12 @@
       <file name="/a.sql" timestamp="1562636459728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/base.py" timestamp="1562649119163">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/base.py" timestamp="1562831117813">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="57" />
       </file>
       <file name="/main.shop_links [SQLite - Shop.db]" timestamp="1560841460587">
         <mark key="[" line="0" column="0" />
@@ -160,12 +161,12 @@
       <file name="/main.cate_links [SQLite - Shop.db]" timestamp="1560932812482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/index_operate.py" timestamp="1562810924470">
+      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/index_operate.py" timestamp="1562829010114">
         <mark key="'" line="109" column="25" />
-        <mark key="[" line="90" column="18" />
-        <mark key="]" line="208" column="15" />
-        <mark key="^" line="208" column="15" />
-        <mark key="." line="208" column="15" />
+        <mark key="[" line="198" column="26" />
+        <mark key="]" line="198" column="23" />
+        <mark key="." line="198" column="23" />
+        <mark key="^" line="198" column="23" />
       </file>
       <file name="/PythonRegExp Fragment (index_operate.py:200).regexp" timestamp="1560931166181">
         <mark key="[" line="0" column="0" />
@@ -234,41 +235,41 @@
       <jump line="109" column="25" filename="D:/WorkSpaces/PythonProject/project01/shop_goods/index_operate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGxlcl9odG1sID0gcmUuc2VhcmNoKHInPHNwYW4+t/4uKz/O8S4rPy9saT4oLis/PC9saT4pJywgaHRtbCkuZ3JvdXAoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
+        <text encoding="base64">cm9vdF9sb2dnZXIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBodHRwczovL2p1ZWppbi5pbS9wb3N0LzViYzJiZDNhNTE4ODI1NWM5NDQ2NWQzMSBsb2dnaW5nIGRlZXBpbiBzdHUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhkU3Rkb3V0KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhkRmlsZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhkU3Rkb3V0KQogICAgcHJpbnQoaGRGaWxlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGluZGV4TG9nZ2VyLmxldmVsKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGhkRmlsZS5sZXZlbCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KGhkRmlsZSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluZm8pCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluZGV4TG9nZ2VyKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETyBodHRwczovL2p1ZWppbi5pbS9wb3N0LzViYzJiZDNhNTE4ODI1NWM5NDQ2NWQzMSBsb2dnaW5nIGRlZXBpbiBzdHUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluZm8pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGhkU3Rkb3V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>19</text>
