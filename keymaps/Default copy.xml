@@ -1,0 +1,34 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="EditorIndentSelection" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+</keymap>
