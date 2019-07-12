@@ -9,13 +9,13 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="D:/WorkSpaces/PythonProject/project01/main.py" timestamp="1562897121202">
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="16" />
-        <mark key="^" line="35" column="16" />
-        <mark key="." line="35" column="16" />
+      <file name="D:/WorkSpaces/PythonProject/project01/main.py" timestamp="1562913407526">
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="59" column="36" />
+        <mark key="^" line="59" column="36" />
+        <mark key="." line="59" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1562894705937">
+      <file name="/Python Console" timestamp="1562914672385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/test.py" timestamp="1562227517596">
@@ -39,18 +39,26 @@
       <file name="D:/WorkSpaces/PythonProject/project01/README" timestamp="1562307729457">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1562383287450">
+      <file name="/a.dummy" timestamp="1562913507567">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/main.all_goods [SQLite - Shop.db]" timestamp="1561618206168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/db_init.py" timestamp="1562810690210">
+      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/db_init.py" timestamp="1562913006063">
         <mark key="'" line="88" column="47" />
         <mark key="[" line="97" column="26" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="7" column="9" />
+      </file>
+      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/category_goods.py" timestamp="1562914586583">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="/PythonRegExp Fragment (index_operate.py:4344).regexp" timestamp="1561712301113">
         <mark key="[" line="0" column="0" />
@@ -169,10 +177,12 @@
       <file name="/main.cate_links [SQLite - Shop.db]" timestamp="1560932812482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/index_operate.py" timestamp="1562898119563">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/WorkSpaces/PythonProject/project01/shop_goods/index_operate.py" timestamp="1562912875349">
+        <mark key="'" line="72" column="22" />
+        <mark key="[" line="209" column="27" />
+        <mark key="]" line="209" column="30" />
+        <mark key="." line="209" column="30" />
+        <mark key="^" line="209" column="30" />
       </file>
       <file name="/PythonRegExp Fragment (index_operate.py:200).regexp" timestamp="1560931166181">
         <mark key="[" line="0" column="0" />
@@ -188,6 +198,9 @@
         <mark key="]" line="26" column="10" />
         <mark key="." line="26" column="10" />
         <mark key="^" line="29" column="14" />
+      </file>
+      <file name="/category_goods" timestamp="1562914872040">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -240,43 +253,44 @@
       <jump line="85" column="47" filename="D:/WorkSpaces/PythonProject/project01/shop_goods/db_init.py" />
       <jump line="109" column="25" filename="D:/WorkSpaces/PythonProject/project01/shop_goods/index_operate.py" />
       <jump line="3" column="28" filename="D:/WorkSpaces/PythonProject/project01/shop_goods/files/th_goods.log" />
+      <jump line="72" column="22" filename="D:/WorkSpaces/PythonProject/project01/shop_goods/index_operate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>analy_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGxlcl9odG1sID0gcmUuc2VhcmNoKHInPHNwYW4+t/4uKz/O8S4rPy9saT4oLis/PC9saT4pJywgaHRtbCkuZ3JvdXAoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ19pbmRleC5pbmZvKGxpbmtfdG90YWxbMF0gKyAxKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobm90IHBsYWNlX29yaWdpbikK</text>
+        <text encoding="base64">ICAgIGxvZ19pbmRleC5pbmZvKGxpbmtfdG90YWxbMF0gKyAxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwbGFjZV9vcmlnaW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobm90IHBsYWNlX29yaWdpbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfaW5kZXguaW5mbygnc2F2ZSBpbmZvIHRvIGRiIHN1Y2Nlc3MuJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwbGFjZV9vcmlnaW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dfaW5kZXguaW5mbygnc2F2ZSBpbmZvIHRvIGRiIHN1Y2Nlc3MuJykK</text>
       </register>
       <register name=":" type="4">
         <text>112</text>
